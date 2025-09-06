@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics/Arithmetic/Arithmetic.iml" filepath="$PROJECT_DIR$/JavaBasics/Arithmetic/Arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics/Coche/Coche.iml" filepath="$PROJECT_DIR$/JavaBasics/Coche/Coche.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics/IfStatements/IfStatements.iml" filepath="$PROJECT_DIR$/JavaBasics/IfStatements/IfStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaFullCourse.iml" filepath="$PROJECT_DIR$/.idea/JavaFullCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics/MadLibs/MadLibs.iml" filepath="$PROJECT_DIR$/JavaBasics/MadLibs/MadLibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics/MathClass/MathClass.iml" filepath="$PROJECT_DIR$/JavaBasics/MathClass/MathClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics/MyNewProject/MyNewProject.iml" filepath="$PROJECT_DIR$/JavaBasics/MyNewProject/MyNewProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics/RandomNumbers/RandomNumbers.iml" filepath="$PROJECT_DIR$/JavaBasics/RandomNumbers/RandomNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics/ShoppingCart/ShoppingCart.iml" filepath="$PROJECT_DIR$/JavaBasics/ShoppingCart/ShoppingCart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics/Suma/Suma.iml" filepath="$PROJECT_DIR$/JavaBasics/Suma/Suma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics/calculatorProgram/calculatorProgram.iml" filepath="$PROJECT_DIR$/JavaBasics/calculatorProgram/calculatorProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics/enhancedSwitches/enhancedSwitches.iml" filepath="$PROJECT_DIR$/JavaBasics/enhancedSwitches/enhancedSwitches.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics/interestCalculator/interestCalculator.iml" filepath="$PROJECT_DIR$/JavaBasics/interestCalculator/interestCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics/nestedIfs/nestedIfs.iml" filepath="$PROJECT_DIR$/JavaBasics/nestedIfs/nestedIfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics/printf/printf.iml" filepath="$PROJECT_DIR$/JavaBasics/printf/printf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics/stringMethods/stringMethods.iml" filepath="$PROJECT_DIR$/JavaBasics/stringMethods/stringMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics/substring/substring.iml" filepath="$PROJECT_DIR$/JavaBasics/substring/substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics/temperatureConverter/temperatureConverter.iml" filepath="$PROJECT_DIR$/JavaBasics/temperatureConverter/temperatureConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics/ternaryOperator/ternaryOperator.iml" filepath="$PROJECT_DIR$/JavaBasics/ternaryOperator/ternaryOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics/weightConverter/weightConverter.iml" filepath="$PROJECT_DIR$/JavaBasics/weightConverter/weightConverter.iml" />
+    </modules>
+  </component>
+</project>
