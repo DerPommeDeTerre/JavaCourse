@@ -9,7 +9,7 @@ public class Car {
         this.color = color;
         this.price = price;
     }
-    //GETTER METHODS
+    //GETTER METHODS - READABLE
     String getModel(){
         return this.model;
     }
@@ -22,7 +22,7 @@ public class Car {
     String getPrice(){
         return "$" + this.price;
     }
-    //SETTER METHODS
+    //SETTER METHODS - WRITABLE
     void setColor(String color){
         this.color = color;
     }
